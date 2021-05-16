@@ -5,9 +5,9 @@ var contributors = [{
     year: 2
 },
 // {
-//     name: "YOUR NAME",
-//     username: "YOUR GITHUB USERNAME",
-//     college: "YOUR COLLEGE NAME",
-//     year: YOUR YEAR
+//     name: "shubham kumawat",
+//     username: "shubhamkumawat1786",
+//     college: "PIET",
+//     year: 1
 // },
 ]
