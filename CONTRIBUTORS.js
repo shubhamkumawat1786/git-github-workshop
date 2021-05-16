@@ -5,9 +5,15 @@ var contributors = [{
     year: 2
 },
 // {
-//     name: "shubham kumawat",
-//     username: "shubhamkumawat1786",
+//     name: "your name",
+//     username: "your username",
 //     college: "PIET",
-//     year: 1
+//     year: 'year"
 // },
+   {
+     name: "shubham kumawat",
+     username: "shubhamkumawat1786",
+     college: "PIET",
+     year: 1
+ },
 ]
